@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 #My list
 .idea/
 .target/
 TaskJDBC.iml
+=======
+# MyList
+.idea/
+>>>>>>> 06d61d3ad7c39932c9fab9c1c9715141c1a31857
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij
