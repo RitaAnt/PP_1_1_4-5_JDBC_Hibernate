@@ -58,6 +58,7 @@ public class Util {
                         .applySettings(configuration.getProperties()).build();
 
                 sessionFactory = configuration.buildSessionFactory(serviceRegistry);
+                System.out.println("Not problem creating session factory");
             } catch (Exception e) {
                 System.out.println("Problem creating session factory");
                 e.printStackTrace();
